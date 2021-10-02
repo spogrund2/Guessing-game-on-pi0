@@ -1,4 +1,5 @@
 # Guessing-game-on-pi0
+done as a practical at university
 game played on a raspberry pi that does the followong:
 
 generates a number from 0-7.
